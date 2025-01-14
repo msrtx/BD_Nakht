@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 477,
+    "height" : 122
+  }, {
+    "width" : 953,
+    "height" : 244
+  }, {
+    "width" : 1905,
+    "height" : 487
+  }, {
+    "width" : 3810,
+    "height" : 974
+  }, {
+    "width" : 7620,
+    "height" : 1948
+  }, {
+    "width" : 15239,
+    "height" : 3895
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 15239,
+  "@id" : "https://msrtx.github.io/BD_Nakht/images/BD-NAkhtA",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3895
+}
